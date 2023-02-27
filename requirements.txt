@@ -9,3 +9,4 @@ opencv-python
 https://github.com/Tinche/aiofiles/archive/master.zip
 dnspython
 psutil
+sudo apt-get install ffmpeg libsm6 libxext6 -y
