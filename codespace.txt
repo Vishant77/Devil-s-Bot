@@ -1,0 +1,19 @@
+Sabse Pahle command chalao
+
+sudo apt-get update
+
+fir uske baad 
+
+sudo apt-get upgrade
+
+Ab apko Command Chalani hai
+
+pip install opencv-python==4.5.5.64
+
+And Ab
+
+sudo apt-get install ffmpeg libsm6 libxext6 -y
+
+And last me 
+
+python -m main

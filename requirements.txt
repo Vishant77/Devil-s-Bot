@@ -1,0 +1,11 @@
+https://github.com/vasusen-code/Telethon/archive/refs/tags/v1.24.0.zip
+cryptg
+tgcrypto
+pyrogram==1.4.16
+TgCrypto
+motor
+opencv-python
+opencv-python
+https://github.com/Tinche/aiofiles/archive/master.zip
+dnspython
+psutil
