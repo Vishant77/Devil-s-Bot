@@ -13,12 +13,12 @@ logging.basicConfig(format='[%(levelname) 5s/%(asctime)s] %(name)s: %(message)s'
                     level=logging.WARNING)
 
 
-API_ID = int(os.environ.get("API_ID", "23365392"))
-API_HASH = os.environ.get("API_HASH", "fffdba007ae9e02207be11b8d8d3f2a8")
-BOT_TOKEN = os.environ.get("BOT_TOKEN","5996900120:AAFD2N1HnG2h1HcI2QN8tF6oaai9vU_OE_c")
-SESSION = str(os.environ.get("SESSION",'BQB_udLh8F_G2kVnpNqzMPZExQBa9-itL4K5w0c7S8Fgzpi603a-10lCdt6O046DqO98Dd3Apw24VvwRXlpSGS812P1a5qoluacWlQ-Wea5EhEYXJUfwTcFIRucvH7DbdnGRqgxcajZVjQS1lxnN2byY0Fj771XgxTBx_rBBMPBAnWjTsGaPZP6_5gw1x-PzCUQVGjtJ4IREkkJJJLS8tFMU1g1V0-j2wMa2GeY2Ep6cWh7sc8l3S7P-DP0-q_6cvgcR3oDPVXMFxkWGbwlyBZIX-9_-COMJ5KbGDklZf4udQyNTjbQ__Q63yXLo5EdKiIDpT-LolNm7nQ3-PFbGKtP9AAAAAVcs6eMA'))
-AUTH = int(os.environ.get("BOT_OWNER", "5757528547"))
-FORCESUB = config("FORCESUB",'joint0t')
+API_ID = int(os.environ.get("API_ID", "9126459"))
+API_HASH = os.environ.get("API_HASH", "238c912d48a9ec0d0e8b05738f358ffc")
+BOT_TOKEN = os.environ.get("BOT_TOKEN","6237349575:AAF4J6Y_6Zk-qPf7rpvRBZmPUt0QB5zCPXw")
+SESSION = str(os.environ.get("SESSION",'BQC9PFsX1DZk77OV0gAZp-xpOJR9HFiwDuRIpJ74USu7u9z30f-iBoi_h3KWEYNXs7PGB86l9vWkW32u6JWsPxtzafxtx9v4On2dk2_is7gnDM2rLr2wQ-G36WNKJST1Tap7pbWc7ttdavCgIzQeIVX__SwVFitwolewfNDWt5UrRAXbCeTuS4tYBbqEdEEN2D27OY9uvy8cmnlDbhLwkp15C-gVKKnNXZUiZhYz5Y-fURM4pz-Zx-yrk14nudCoIZTyqDyU1jw7ath2zLVNe2H_-aNLX6YOvavGm2j_OXp2SkfyFEnqlOSQhKkrgE5qVvyGUIaZ_l96BE6EO37nu3WTLH5jRAA'))
+AUTH = int(os.environ.get("BOT_OWNER", "746480452"))
+FORCESUB = config("FORCESUB",'Joint0T')
 
 
 bot = TelegramClient('bot', API_ID, API_HASH).start(bot_token=BOT_TOKEN) 
